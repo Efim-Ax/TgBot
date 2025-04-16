@@ -8,6 +8,13 @@ print("Python Comments") """
 # print(f"Hello, {name}! You look good!")
 # print("Hello, "+name+"! You look good!")
 
+# <class 'str'> a = "Hello World"
+# <class 'int'> b = 10
+# <class 'float'> c = 11.22
+# <class 'tuple'> d = ("Geeks", "for", "Geeks")
+# <class 'list'> e = ["Geeks", "for", "Geeks"]
+# <class 'dict'> f = {"Geeks": 1, "for":2, "Geeks":3}
+
 # Prompting the user for input
 while True:
     try:
